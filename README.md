@@ -1,27 +1,150 @@
-# 💫 About Me:
-Hello there! I'm Yogesh Shah, a passionate student diving into the world of programming and currently focusing on mastering JavaScript.<br><br>🚀 I'm on an exciting journey of learning and exploring the ins and outs of JavaScript, from the basics to more advanced concepts like asynchronous programming and modern frameworks like React and Node.js.<br><br>💼 As a student, I'm dedicated to expanding my knowledge and skill set in the field of web development. I'm currently honing my skills through various online courses, tutorials, and personal projects.<br><br>🌱 In my free time, you'll often find me immersed in coding challenges on platforms like LeetCode or contributing to open-source projects to gain practical experience and give back to the community.<br><br>📫 Have any tips or resources to share? Or perhaps you're looking for a study buddy to tackle JavaScript projects together? Feel free to reach out to me via email at yogeshshah2063@gmail.com<br>⚡ Fun fact: When I'm not coding, I enjoy playing Cricket and Football.
+# 👨‍💻 Yogesh Shah Thakuri | Full Stack MERN Developer
 
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;Production+Ready+Applications+%F0%9F%94%A5;React+%7C+TypeScript+%7C+Node.js+%E2%9C%A8;Building+Scalable+Solutions+%F0%9F%8C%90)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https:/www.facebook.com/yogesh.shah.78) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/____yogesh_shah_thakuri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yogesh-shah-thakuri-8a0669275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/4KjPUl2m5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yogeshshah2063@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=plastic&logo=daisyui&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=plastic&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=plastic&logo=remix&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=plastic&logo=xfce&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yogesh4952&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yogesh4952&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh4952&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yogesh4952&theme=rose&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yogesh4952&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yogesh4952&icon=8&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 About Me
+
+Full-stack developer specializing in the **MERN stack**. I build production-ready web applications with React, TypeScript, Node.js, and MongoDB.
+
+🌐 **Portfolio:** [yogeshthakuri.netlify.app](https://yogeshthakuri.netlify.app)  
+📍 **Location:** Nepal 🇳🇵
+
+### 🏆 Achievement
+
+**🥈 2nd Position** - ICT Club Hackathon, Cosmos College  
+_Built Hackathon Management System_
+
+---
+
+## � Featured Projects
+
+### ✈️ [Tourism Management System](https://github.com/yogesh4952/Tourism-Management-System) ⭐ 1 🍴 1
+
+> **Full-Stack Travel Booking & Destination Management**
+
+MERN stack application with interactive maps, booking system, and admin dashboard.
+
+**Tech Stack:** `React 19` • `Node.js` • `Express` • `MongoDB` • `Clerk` • `TailwindCSS 4` • `Leaflet`
+
+---
+
+### 🏢 [Job Portal](https://github.com/yogesh4952/Job-Portal) ⭐ 1
+
+> **Modern Job Listing Platform**
+
+Job portal with rich text editor, advanced search, and Clerk authentication.
+
+**Tech Stack:** `React 19` • `TypeScript` • `Clerk` • `TailwindCSS 4` • `Quill`
+
+---
+
+### 🎯 [Hackathon Management System](https://github.com/yogesh4952/Hack-the-Hackathon) ⭐ 1 🥈
+
+> **Complete Hackathon Event Platform**  
+> **🏆 2nd Place - ICT Club Hackathon @ Cosmos College**
+
+End-to-end solution for hackathon registrations, teams, and judging.
+
+**Key Features:** Registration & team management • Submission & judging • Real-time event tracking
+
+**Tech Stack:** `Node.js` • `Express` • `MongoDB`
+
+---
+
+### 🐾 [PawLaya](https://github.com/yogesh4952/PawaLaya-Backend) ⭐ 1
+
+Pet care platform connecting owners with veterinary services.  
+**Tech Stack:** `Node.js` • `Express` • `MongoDB`
+
+### 👤 [MERN Authentication](https://github.com/yogesh4952/MERN-Authentication)
+
+Secure authentication system with JWT tokens.  
+**Tech Stack:** `React` • `TypeScript` • `Node.js` • `MongoDB`
+
+### 📝 [Admin Blog](https://github.com/yogesh4952/admin-Blog)
+
+Blog CMS with full CRUD operations.  
+**Tech Stack:** `React` • `TypeScript` • `TailwindCSS`
+
+### 🎓 [Attendance Management](https://github.com/yogesh4952/Attendence-Management-System)
+
+Digital attendance tracking for educational institutions.
+
+### 🤝 [SkillsSwap](https://github.com/yogesh4952/SkillsSwap)
+
+Peer-to-peer skill exchange platform.  
+**Tech Stack:** `React` • `TypeScript` • `TailwindCSS`
+
+---
+
+## 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  ![Yogesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogesh4952&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh4952&layout=compact&theme=tokyonight&hide_border=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yogesh4952&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## � Other Projects
+
+### 📚 Learning & Development
+
+- **[120 Days DSA Challenge](https://github.com/yogesh4952/120-Days-DSA)** - C++ DSA solutions
+- **[Python Full Course](https://github.com/yogesh4952/Python---Full-Course)** - Python fundamentals & OOP
+- **[NeetCode](https://github.com/yogesh4952/NeetCode)** - LeetCode pattern practice
+
+---
+
+## � What I'm Currently Working On
+
+- 🚀 Building production-ready MERN applications
+- ⚛️ Mastering React 19 with TypeScript
+- 🔐 Implementing secure authentication systems
+- 🎨 Creating modern UIs with TailwindCSS 4
+- 📊 Solving DSA problems daily
+- 🌱 Contributing to open-source projects
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-yogeshshah2063@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogeshshah2063@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-yogesh4952-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogesh4952)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogesh-shah)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=yogesh4952&color=brightgreen&style=flat-square)
+
+⭐️ From [yogesh4952](https://github.com/yogesh4952)
+
+</div>
