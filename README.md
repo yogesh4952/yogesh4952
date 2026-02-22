@@ -12,7 +12,7 @@
 
 Full-stack developer specializing in the **MERN stack**. I build production-ready web applications with React, TypeScript, Node.js, and MongoDB.
 
-🌐 **Portfolio:** [yogeshthakuri.netlify.app](https://yogeshthakuri.netlify.app)  
+🌐 **Portfolio:** [yogesh-shah.netlify.app](https://yogesh-shah.netlify.app)  
 📍 **Location:** Nepal 🇳🇵
 
 ### 🏆 Achievement
