@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **System Design Concepts**
 
-- 👨‍💻 All of my projects are available at [[yogesh-shah.vercel.app](https://yogesh-shah.netlify.app)]
+- 👨‍💻 All of my projects are available at [yogesh-shah.netlify.app(https://yogesh-shah.netlify.app)]
 
 - 📫 How to reach me **work.yogeshthakuri.com**
 
